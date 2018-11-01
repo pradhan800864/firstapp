@@ -1,10 +1,11 @@
 <template>
     
-</template>
+    </template>
 
 <script>
+ console.log('Hello World')
 export default {
-
+   
 }
 </script>
 
